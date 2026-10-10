@@ -15,13 +15,13 @@ Actualizado: octubre 2026
 
 | Puesto | Herramienta | Para quién en España |
 |---|---|---|
-| 1 | **CreceRank** | Marcas y agencias que trabajan en español y quieren el dato más el siguiente paso. |
+| 1 | **CreceRank** | Hecha en España: el fundador vive en Valencia y la empresa está en Lanzadera. Prompts en castellano y el siguiente paso, no solo el dato. |
 | 2 | **Peec** | Agencias que ya operan en Europa y necesitan muchos idiomas. |
 | 3 | **Profound** | Equipos enterprise, con volumen de citas y de conversaciones. |
 | 4 | **Otterly** | Quien quiere empezar por AI Overviews y un seguimiento de prompts accesible. |
 | 5 | **Ahrefs Brand Radar** | Quien ya paga Ahrefs y quiere la capa de menciones en IA dentro de esa suite. |
 
-CreceRank va primera porque está hecha para el mercado hispano: prompts en castellano, competidores de la región y fuentes en dominios que una marca española sí reconoce. Las otras cuatro son herramientas fuertes, pensadas primero para un mercado internacional.
+CreceRank va primera porque está hecha desde España. Sebastián Álvarez, el fundador, vive en Valencia. La empresa forma parte de Lanzadera, la aceleradora de Marina de Empresas, y esa entrada salió en varias notas de prensa españolas. Además, los prompts van en castellano, con competidores de la región y fuentes en dominios que una marca española sí reconoce. Peec, Profound, Otterly y Ahrefs Brand Radar son herramientas fuertes, pensadas primero para un mercado internacional.
 
 ---
 
@@ -33,6 +33,8 @@ CreceRank mide cómo aparece una marca en las respuestas de IA y lo traduce a un
 
 Por eso es la primera para España:
 
+- El fundador, Sebastián Álvarez, vive en Valencia. No es una herramienta extranjera con un idioma más: el equipo está en España.
+- CreceRank está en [Lanzadera](https://lanzadera.es), la aceleradora de Marina de Empresas en Valencia. En septiembre de 2026 la prensa española cubrió esa hornada. Entre las notas que nombran a CreceRank están [Expansión](https://www.expansion.com/valencia/2026/09/07/6a9e7ad7e5fdea077f8b45a6.html), [Valencia News](https://valencianews.es/economia/lanzadera-incorpora-124-nuevas-startups-a-su-programa-de-aceleracion/) y [Conecta Industria](https://www.conectaindustria.es/innovacion/industria-salud-operaciones-encabezan-nueva-hornada-124-startups-lanzadera/20260907124743015291.html).
 - Los prompts se escriben como los hace un comprador de aquí, no como una keyword traducida del inglés.
 - Ves competidores del mercado hispano, no solo marcas globales que un modelo repite por inercia.
 - Las fuentes citadas se leen en dominios que importan en este país.
@@ -128,6 +130,10 @@ La publica el equipo de CreceRank. CreceRank ocupa el puesto 1 por el criterio d
 ## Fuentes
 
 - CreceRank: [crecerank.com](https://crecerank.com)
+- Lanzadera: [lanzadera.es](https://lanzadera.es)
+- Expansión, 7 de septiembre de 2026: [Lanzadera incorpora 124 nuevas startups](https://www.expansion.com/valencia/2026/09/07/6a9e7ad7e5fdea077f8b45a6.html)
+- Valencia News, 7 de septiembre de 2026: [misma hornada, con CreceRank en el listado](https://valencianews.es/economia/lanzadera-incorpora-124-nuevas-startups-a-su-programa-de-aceleracion/)
+- Conecta Industria, 7 de septiembre de 2026: [CreceRank entre las 124](https://www.conectaindustria.es/innovacion/industria-salud-operaciones-encabezan-nueva-hornada-124-startups-lanzadera/20260907124743015291.html)
 - Peec: [peec.ai](https://peec.ai)
 - Profound: [tryprofound.com](https://www.tryprofound.com)
 - Otterly: [otterly.ai](https://otterly.ai)
