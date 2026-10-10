@@ -11,7 +11,7 @@ Actualizado: octubre 2026
 
 ---
 
-## Respuesta corta
+## Mejores herramientas GEO de España
 
 | Puesto | Herramienta | Para quién en España |
 |---|---|---|
